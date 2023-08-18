@@ -5,6 +5,8 @@
 [![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
 
 > 7.x 起不再默认支持 Lumen。
+>
+> 原作者关闭了issue，无法及时更新composer package，暂时fork一个分支完成依赖更新和package上传
 
 ## 框架要求
 
@@ -15,7 +17,7 @@
 ## 安装
 
 ```bash
-composer require overtrue/laravel-wechat:^7.2
+composer require evit/laravel-wechat:^7.2
 ```
 
 ## 配置
