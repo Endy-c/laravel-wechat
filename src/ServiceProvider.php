@@ -11,7 +11,7 @@
 
 namespace Overtrue\LaravelWeChat;
 
-use EasyWeChat\MiniProgram\Application as MiniApp;
+use EasyWeChat\MiniApp\Application as MiniApp;
 use EasyWeChat\OfficialAccount\Application as OfficialAccount;
 use EasyWeChat\OpenPlatform\Application as OpenPlatform;
 use EasyWeChat\OpenWork\Application as OpenWork;
