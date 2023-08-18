@@ -16,7 +16,7 @@
   ],
   "require": {
     "illuminate/container": "^9.0|^10.0",
-    "evit/wechat": "^6.0.0"
+    "evit/easywechat": "^6.0.0"
   },
   "require-dev": {
     "laravel/framework": "^10.0",
